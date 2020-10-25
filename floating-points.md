@@ -46,3 +46,7 @@ Convert `0x53530000` to decimal
 - Exponenet: $41 - 31 = 10$
 - Value = $2^{10} * (1.101010011) = 1702$
 
+## Special Numbers
+
+![Special Numbers in Floating Point](./img/special_numbers.png)
+
